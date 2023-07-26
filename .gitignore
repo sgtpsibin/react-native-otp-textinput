@@ -63,5 +63,4 @@ typings/
 # lock files
 package-lock.json
 
-# generated files
-dist
+
